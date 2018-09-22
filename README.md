@@ -1,4 +1,4 @@
 # git_basics
 AWS course
 
-Bienvenidos al curso de AWS
+* Bienvenidos al curso de AWS
